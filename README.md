@@ -1,4 +1,6 @@
 # Jnekins Server
+https://transcripts.gotomeeting.com/#/s/9a366e5d362af2472e5a750fc71bb17c7d0d61145257670afcd0a8b6f783d0d4
+
 
 Default java version in AWS Centos
 
